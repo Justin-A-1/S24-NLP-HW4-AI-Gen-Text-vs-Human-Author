@@ -1,0 +1,4 @@
+Source: https://www.kaggle.com/datasets/shanegerami/ai-vs-human-text . 
+Dataset consists of 487K text entries either human written or AI generated. 
+Here I use TensorFlow and Keras to try several different models, included CNN, RNN, LSTM, and more with many variations. 
+98.9% classification accuracy, but the point was more to try different things.
